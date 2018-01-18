@@ -1,0 +1,4 @@
+- in `scatterGroup` sheet. Make sure to drag `Region` onto `Colors` first! And
+  then, `State` into `Markers`
+- use `Edit Axis` after R-click to edit axis (log, x/y lim)
+
