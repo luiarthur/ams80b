@@ -1,10 +1,9 @@
-Country, Armed Forces, Defense Budget, Population
+Country, Armed Forces (thousands), Defense Budget ($billion), Population (millions)
 Brazil, 367.9, 21.6, 190.0
-Columbia, 254.2, 7.1, 44.2
+Colombia, 254.2, 7.1, 44.2
 Argentina, 115.0, 4.6, 40.3
 Peru, 114.0, 2.6, 28.6
 Venezuela, 76.0, 2.10, 26.0
 Chile, 66.0, 1.2, 16.3
 Ecuador, 57.1, 0.9, 13.7
 Bolivia, 46.1, 0.2, 9.1
-

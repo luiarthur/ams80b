@@ -1,0 +1,8 @@
+Expense per Armed Force Member ($thounds per member) 
+[Defense Budget ($billion)]*1000000/([Armed Forces (thousands)]*1000)
+
+Per capita spending  on defense ($)
+[Defense Budget ($billion)]*1000/[Population (millions)]
+
+Percentage of Population in Armed Forces
+[Armed Forces (thousands)] / ([Population (millions)]*1000) * 100
